@@ -1,0 +1,10 @@
+# سامي و شهد — دعوة خطوبة
+
+افتح `sami-shahd-invitation.html` في المتصفح.
+
+عدّل بيانات الدعوة من بلوك `#invite-config` داخل الملف:
+- الأسماء والتاريخ
+- `venue_text` و `venue_map_url` للمكان
+- `music_url` لو حابب تضيف أغنية (حط الملف في `assets/`)
+
+الصور في `assets/groom-cut.webp` و `assets/bride-cut.webp`.
